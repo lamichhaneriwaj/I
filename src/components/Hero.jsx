@@ -25,7 +25,6 @@ const Hero = () => {
     const typed = new Typed(typeTarget.current, {
       strings: [
         'Web Developer 💻',
-        'App Developer 💻',
         'Web Designer 🎨',
         'Problem Solver 🚀',
         'UI/UX Enthusiast 🎯'
